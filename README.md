@@ -1,7 +1,7 @@
 # <p align="center"><font color='#FE605F'>♡ Speed Dating ♡</font></p>
 
 <p align="center">
-  <img src="data/sean-stratton-wQkZdceduxs-unsplash.jpg" width='700' height='400' style='object-fit:contain;' />
+  <img src="data/sean-stratton-wQkZdceduxs-unsplash.jpg" width='300' height='300' style='object-fit:contain;' />
 </p>
 
 ## Video presentation
